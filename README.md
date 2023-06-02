@@ -5,6 +5,7 @@ En este video vamos a ver como crear una API REST con Spring Boot y H2, Spring B
 
 Y si estás aprendiendo a crear aplicaciones con Java no olvides visitar la web  www.icodeap.com donde podrás encontrar muchos recursos para aprender de una manera muy didáctica con contenido paso a paso que te ayudarán a mejorar tu nivel y el aprendizaje de estás tecnologías:
 
-
+Video:
+👉 https://youtu.be/hzEpwm_Ew7I
 📓 Cursos Java, Jakarta, Spring Boot
 💻 https://icodeap.com
